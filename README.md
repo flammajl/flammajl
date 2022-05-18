@@ -3,4 +3,4 @@
 
 Desenvolvedor Frontend
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flammajl&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=flammajl&layout=compact&langs_count=5&theme=dracula)]()
